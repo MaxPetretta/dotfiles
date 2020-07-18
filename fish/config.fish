@@ -2,7 +2,7 @@
 set -Ux GOPATH $HOME/.go
 
 # Configure proxy
-proxy
+# proxy
 
 # Fish aliases
 source ~/.config/fish/alias.fish

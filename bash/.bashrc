@@ -3,7 +3,7 @@ export GOPATH="$HOME/.go"
 
 # Source functions
 for file in $(find ~/.config/bash/functions -type f -name "*.sh"); do source $file; done
-proxy
+# proxy
 
 # asdf version manager
 source $(brew --prefix asdf)/asdf.sh
